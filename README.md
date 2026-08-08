@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sai Sahasra 👋
 
-<!--
-**BSahasra/BSahasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **1st Year B.Tech CSE Student**
+💻 Learning Computer Science & exploring the world of technology
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
+* 🌱 Currently learning **Programming, Data Structures & Web Development**
+* 💡 Interested in **Software Development, AI & Technology**
+* 🔭 Currently working on improving my programming skills and building small projects
+* 📚 Always learning something new
+
+## 🚀 My Goals
+
+* Get better at problem solving
+* Learn Data Structures & Algorithms
+* Contribute to open-source projects
+* Build a strong portfolio throughout my B.Tech journey
+
+## 📌 Projects
+
+🔹 **Coming Soon...**
+
+I'm currently learning and building projects. Check back soon! 🚀
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *Link*
+* 📧 Email: basam.sai.sahasra@gmail.com
+
+---
+
+⭐ *Learning, building, and growing one project at a time.*
