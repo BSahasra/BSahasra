@@ -26,7 +26,7 @@ I'm currently learning and building projects. Check back soon! 🚀
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *Link*
+* 💼 LinkedIn: linkedin.com/in/bsaisahasra
 * 📧 Email: basam.sai.sahasra@gmail.com
 
 ---
